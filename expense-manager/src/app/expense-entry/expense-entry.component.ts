@@ -11,7 +11,8 @@ export class ExpenseEntryComponent implements OnInit {
   constructor() { }
 
   ngOnInit() {
-    this.title = "Expense Entry"   
+    this.title = "Expense Entry" ;
+    
   }
 
 }
